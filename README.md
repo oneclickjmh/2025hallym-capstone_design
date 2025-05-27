@@ -18,7 +18,7 @@
 
 <img src="images/process3.png" width="900" /><br>
 
-**어플리케이션 결과**
+**어플리케이션 결과**<br>
 <img src="images/app1.png" width="200" />
 <img src="images/app2.png" width="200" />
 <img src="images/app3.png" width="200" />
