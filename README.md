@@ -16,7 +16,7 @@
 3. 학습된 CNN기반 model으로 CAM을 사용, CAM을 통해 두피를 강조한 heatmap 생성<br>
 4. 어플리케이션을 개발, 로컬에 있는 flask서버에 이미지를 보내면, 모델을 통해 추론을 진행 한 뒤 어플리케이션에 결과를 출력<br>
 
-<img src="images/process3.png" width="600" /><br>
+<img src="images/process_model.png" width="600" /><br>
 <img src="images/process_server.png" width="600" /><br>
 
 **어플리케이션 결과**<br>
