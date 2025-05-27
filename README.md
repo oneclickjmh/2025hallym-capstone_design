@@ -22,9 +22,11 @@
 <img src="images/process_server.png" width="750" /><br>
 
 # **어플리케이션 결과**<br>
-<img src="images/app1.png" width="200" />
-<img src="images/app2.png" width="200" />
-<img src="images/app3.png" width="200" /><br>
+<p align="center">
+  <img src="images/app1.png" width="200"/>
+  <img src="images/app2.png" width="200"/>
+  <img src="images/app3.png" width="200"/>
+</p>
 
 ## **코드에는 경로가 지정되어있지 않으므로, 직접 경로를 지정하시길 바랍니다** 
 
