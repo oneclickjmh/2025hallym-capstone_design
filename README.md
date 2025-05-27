@@ -16,4 +16,4 @@
 3. 학습된 CNN기반 model으로 CAM을 사용, CAM을 통해 두피를 강조한 heatmap 생성<br>
 4. 어플리케이션을 개발, 서버에 이미지를 보내면, 모델을 통해 추론을 진행 한 뒤 어플리케이션에 결과를 출력<br>
 
-<img src="images/process3.png" width="1000" height="750"/><br>
+<img src="images/process3.png" width="1000" height="550"/><br>
