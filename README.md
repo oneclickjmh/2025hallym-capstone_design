@@ -5,6 +5,8 @@
 팀명: 딸깍<br>
 팀원: 20202701 강민선(팀장), 20195195 안정우, 20182428 유현우<br>
 주제: Vision-AI 기반 탈모진단 서비스(모락모락)<br>
+환경: colab pro
+이메일: wjddnshfdlxj@naver.com
 
 # **사용한 학습 데이터**<br>
 **classification - https://universe.roboflow.com/onuralpszr/hair_norwood_hamilton<br>**
@@ -20,6 +22,9 @@
 <img src="images/process_server.png" width="750" /><br>
 
 # **어플리케이션 결과**<br>
-<img src="images/app1.png" width="230" />
-<img src="images/app2.png" width="230" />
-<img src="images/app3.png" width="230" />
+<img src="images/app1.png" width="200" />
+<img src="images/app2.png" width="200" />
+<img src="images/app3.png" width="200" /><br>
+
+## **코드에는 경로가 지정되어있지 않으므로, 직접 경로를 지정하시길 바랍니다** 
+
