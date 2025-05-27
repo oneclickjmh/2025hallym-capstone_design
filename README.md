@@ -1,7 +1,7 @@
 # 2025 hallym-capstone_design
 2025 한림대학교 정보과학대학 캡스톤 디자인
 
-<img src="images/capstone_name.png" width="500"/><br>
+<img src="images/capstone_team_name.png" width="500"/><br>
 팀명: 딸깍<br>
 팀원: 20202701 강민선(팀장), 20195195 안정우, 20182428 유현우<br>
 주제: Vision-AI 기반 탈모진단 서비스(모락모락)<br>
