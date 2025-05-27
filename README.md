@@ -17,3 +17,8 @@
 4. 어플리케이션을 개발, 서버에 이미지를 보내면, 모델을 통해 추론을 진행 한 뒤 어플리케이션에 결과를 출력<br>
 
 <img src="images/process3.png" width="900" /><br>
+
+**어플리케이션 결과**
+<img src="images/app1.png" width="300" />
+<img src="images/app2.png" width="300" />
+<img src="images/app3.png" width="300" />
