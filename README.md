@@ -14,9 +14,10 @@
 1.해밀턴-노우드 척도를 기반으로 탈모 단계를 1~7단계로 구분한 데이터를 가지고 CNN기반 model을 통해 탈모 단계를 분류<br>
 2.Segmentation을 통해 이미지에서 모발과 두피 영역을 분리, 이를 토대로 모발의 밀도 점수를 계산<br>
 3. 학습된 CNN기반 model으로 CAM을 사용, CAM을 통해 두피를 강조한 heatmap 생성<br>
-4. 어플리케이션을 개발, 서버에 이미지를 보내면, 모델을 통해 추론을 진행 한 뒤 어플리케이션에 결과를 출력<br>
+4. 어플리케이션을 개발, 로컬에 있는 flask서버에 이미지를 보내면, 모델을 통해 추론을 진행 한 뒤 어플리케이션에 결과를 출력<br>
 
-<img src="images/process3.png" width="900" /><br>
+<img src="images/process3.png" width="600" />
+<img src="images/process_server.png" width="300" /><br>
 
 **어플리케이션 결과**<br>
 <img src="images/app1.png" width="230" />
