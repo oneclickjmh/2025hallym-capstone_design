@@ -7,7 +7,7 @@
 
 사용한 학습 데이터<br>
 **classification - https://universe.roboflow.com/onuralpszr/hair_norwood_hamilton<br>**
-**#segmentation - https://universe.roboflow.com/tangoku/hairloss-segmentation/dataset/2<br>**
+**segmentation - https://universe.roboflow.com/tangoku/hairloss-segmentation/dataset/2<br>**
 
 주제 개요<br>
 1.해밀턴-노우드 척도를 기반으로 탈모 단계를 1~7단계로 구분한 데이터를 가지고 CNN기반 model을 통해 탈모 단계를 분류<br>
