@@ -6,7 +6,7 @@
 팀원: 20202701 강민선(팀장), 20195195 안정우, 20182428 유현우<br>
 주제: Vision-AI 기반 탈모진단 서비스(모락모락)<br>
 환경: colab pro
-이메일: wjddnshfdlxj@naver.com
+이메일: baab36@naver.com
 
 # **사용한 학습 데이터**<br>
 **classification - https://universe.roboflow.com/onuralpszr/hair_norwood_hamilton<br>**
