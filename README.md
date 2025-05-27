@@ -22,7 +22,7 @@
 <img src="images/process_server.png" width="750" /><br>
 
 # **어플리케이션 결과**<br>
-<p align="center">
+<p>
   <img src="images/app1.png" width="200"/>
   <img src="images/app2.png" width="200"/>
   <img src="images/app3.png" width="200"/>
