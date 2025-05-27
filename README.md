@@ -2,6 +2,7 @@
 2025 한림대학교 정보과학대학 캡스톤 디자인
 
 ![히트맵 시각화](images/capstone_name.png)
+<img src="images/capstone_name.png" width="500"/>
 팀명: 딸깍<br>
 팀원: 20202701 강민선(팀장), 20195195 안정우, 20182428 유현우<br>
 주제: Vision-AI 기반 탈모진단 서비스(모락모락)<br>
@@ -17,4 +18,4 @@
 4. 어플리케이션을 개발, 서버에 이미지를 보내면, 모델을 통해 추론을 진행 한 뒤 어플리케이션에 결과를 출력<br>
 
 ![히트맵 시각화](images/process3.png)
-
+<img src="images/process3.png" width="500"/>
